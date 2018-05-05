@@ -1,0 +1,57 @@
+.po{
+    background-color: #BEC8B3;
+    
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+
+.bb
+{
+    color:green;
+    font-size: 10px;
+
+}
+
+.aaaa
+{
+    color: green;
+    font-size: 35px;
+    
+}
+
+.l
+{
+  width: 9vw;
+  float: left;
+  border-color: blue;
+  border-radius: 5px;
+  
+}
+.g
+{
+    text-align: right;
+    margin-top: 8vh;
+   
+
+}
+
+.dd
+{
+    color: green;
+    font-size: 20px;
+    margin-left: 10vw;
+    margin-top: -10vh;
+
+}
+
+.ddd
+{
+    margin-top: -15vh;
+    margin-left: 60vw;
+    color:green;
+}
+
+.k
+{
+   color:green;
+}
